@@ -11,5 +11,8 @@
     "@guillaume.chervet/my-lib1": "^1.1.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
 }
