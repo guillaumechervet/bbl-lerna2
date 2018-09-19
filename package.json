@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "lerna": "^3.4.0"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "jest"
+  }
+}
